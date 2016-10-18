@@ -1,3 +1,7 @@
+import Model.Model;
+import View.View;
+import Controller.Controller;
+
 /*
  * De Yu
  * Dy87@drexel.edu
